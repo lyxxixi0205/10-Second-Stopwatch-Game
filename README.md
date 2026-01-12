@@ -1,6 +1,9 @@
 # 10-Second-Stopwatch-Game
 
+This is a game that counts up until 15:00 seconds, the player is supposed to try and stop it at exactly 10:00 seconds, which grants them the win.
+Video: https://youtu.be/Y8YEqiwyxsE
 
+Code:
 #include <LiquidCrystal.h>
 void draw_bobby(int x, bool legs);
 void update_bobby();
